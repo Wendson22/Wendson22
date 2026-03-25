@@ -88,14 +88,15 @@ Atualmente busco oportunidade em **Desenvolvimento**, onde eu possa aplicar meus
 
 ### 📌 Projetos em Destaque
 
-🔹 **Projeto 1 - Em breve**  
-Aplicação web utilizando HTML, CSS e JavaScript.
+🔹 **Mario Jump Game**  
+Jogo desenvolvido com HTML, CSS e JavaScript, onde o jogador deve desviar de obstáculos para sobreviver o maior tempo possível.  
+📌 Destaques:
+- Manipulação do DOM  
+- Lógica de colisão  
+- Animações com CSS  
+- Interatividade com JavaScript  
 
-🔹 **Projeto 2 - Em breve**  
-Projeto em React com integração de API.
-
-🔹 **Projeto 3 - Em breve**  
-API simples utilizando Node.js.
+🔗 Acesse o projeto: https://github.com/Wendson22/mario-jump
 
 ---
 
