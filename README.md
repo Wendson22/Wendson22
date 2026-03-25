@@ -135,14 +135,32 @@ Jogo desenvolvido com HTML, CSS e JavaScript, onde o jogador deve desviar de obs
 
 ---
 
-<p>
-📫 Contato
-    
-📧 Email: wendsonluis697@gmail.com 
-💼 LinkedIn: https://linkedin.com/in/wendsonluis  
-🐙 GitHub: https://github.com/Wendson22  
+### 📫 Contato
 
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wendsonluis697@gmail.com">
+    <img 
+      alt="Email" 
+      title="Enviar Email" 
+      src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://linkedin.com/in/wendsonluis" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://github.com/Wendson22" target="_blank">
+    <img 
+      alt="GitHub" 
+      title="Meu GitHub" 
+      src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
 </p>
-
 
 ---
