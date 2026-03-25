@@ -135,10 +135,14 @@ Jogo desenvolvido com HTML, CSS e JavaScript, onde o jogador deve desviar de obs
 
 ---
 
-
-### 📫 Contato
+<p>
+📫 Contato
+    
 📧 Email: wendsonluis697@gmail.com 
 💼 LinkedIn: https://linkedin.com/in/wendsonluis  
 🐙 GitHub: https://github.com/Wendson22  
+
+</p>
+
 
 ---
