@@ -90,7 +90,9 @@ Atualmente busco oportunidade em **Desenvolvimento**, onde eu possa aplicar meus
 
 🔹 **Educfin**
 Aplicação web desenvolvida com React e tecnologias modernas de front-end, voltada para educação financeira. O projeto permite ao usuário realizar simulações e visualizar informações que auxiliam na organização e no planejamento financeiro.
+
 📌 Destaques:
+
 Interface moderna e responsiva
 Simulações financeiras
 Organização e visualização de dados
