@@ -88,6 +88,20 @@ Atualmente busco oportunidade em **Desenvolvimento**, onde eu possa aplicar meus
 
 ### 📌 Projetos em Destaque
 
+🔹 **Educfin**
+Aplicação web desenvolvida com React e tecnologias modernas de front-end, voltada para educação financeira. O projeto permite ao usuário realizar simulações e visualizar informações que auxiliam na organização e no planejamento financeiro.
+📌 Destaques:
+Interface moderna e responsiva
+Simulações financeiras
+Organização e visualização de dados
+Componentização com React
+Manipulação de estados e interações
+Desenvolvimento com TypeScript
+Estruturação de aplicações web com Vite
+Experiência de usuário (UX/UI)
+
+🔗 Acesse o projeto: https://github.com/Wendson22/Educfin
+
 🔹 **Mario Jump Game**  
 Jogo desenvolvido com HTML, CSS e JavaScript, onde o jogador deve desviar de obstáculos para sobreviver o maior tempo possível.  
 📌 Destaques:
